@@ -1,36 +1,27 @@
 # 📅 Weekly Planner App
 
-A simple full-stack Weekly Planner built using **FastAPI** and **Vanilla JavaScript**.
+A full-stack Weekly Planner application built using FastAPI.  
+Frontend and Backend are integrated in a single file for simplicity.
 
 ---
 
 ## ✨ Features
-- Add tasks for each day of the week
-- Mark tasks as completed ✔
-- Delete tasks ❌
-- Organized weekly view (Monday → Sunday)
+- Add tasks by day of the week  
+- Mark tasks as completed ✔  
+- Delete tasks ❌  
+- Organized weekly board view  
 
 ---
 
 ## 🛠 Tech Stack
-- FastAPI (Backend)
-- SQLAlchemy + SQLite (Database)
-- HTML, CSS, JavaScript (Frontend)
+- FastAPI  
+- SQLite  
+- SQLAlchemy  
+- HTML, CSS, JavaScript (inside backend)
 
 ---
 
 ## 🚀 How to Run
 
-### 1. Backend
 ```bash
-uvicorn main:app --reload
-
-### 2.Frontend
-
-Open:
-
-index.html
-
-Open:
-
-index.html
+uvicorn app:app --reload
