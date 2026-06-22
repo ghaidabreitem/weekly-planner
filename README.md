@@ -1,7 +1,7 @@
 # 📅 Weekly Planner App
 
 A full-stack Weekly Planner application built using FastAPI.  
-Frontend and Backend are integrated in a single file for simplicity.
+The project consists of a FastAPI backend and a separate frontend built with HTML, CSS, and JavaScript.
 
 ---
 
