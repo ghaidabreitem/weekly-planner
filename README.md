@@ -24,3 +24,13 @@ A simple full-stack Weekly Planner built using **FastAPI** and **Vanilla JavaScr
 ### 1. Backend
 ```bash
 uvicorn main:app --reload
+
+### 2.Frontend
+
+Open:
+
+index.html
+
+Open:
+
+index.html
