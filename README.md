@@ -17,7 +17,7 @@ The project consists of a FastAPI backend and a separate frontend built with HTM
 - FastAPI  
 - SQLite  
 - SQLAlchemy  
-- HTML, CSS, JavaScript (inside backend)
+- HTML, CSS, JavaScript  
 
 ---
 
