@@ -8,7 +8,7 @@ import models
 
 app = FastAPI()
 
-# ✅ مهم جداً: CORS لازم يكون قبل أي request
+
 app.add_middleware(
     CORSMiddleware,
     allow_origins=["*"],
